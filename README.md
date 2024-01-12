@@ -33,6 +33,10 @@ This project was about how react routers work. goal was to learn how to create r
 
 theme-switcher project's functionality was to change the theme from dark to light or vice versa through a toggle button. the goal of the project was context in react and how to create and use contexts.
 
+### [ReduxToolkit-Todo🚀](./project-5)
+
+Todo project to understand redux tookit. the goal of the project was to understand redux toolkit flow, reducers, slices, useDispatch() and useSelector().
+
 ## Future Learning Goals🔖
 
 I plan to continue my React learning journey by exploring the following:
