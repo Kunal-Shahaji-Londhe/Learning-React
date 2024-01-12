@@ -29,6 +29,10 @@ This project converts currencies (ex. INR to USD). The goal of the project was t
 
 This project was about how react routers work. goal was to learn how to create routes in react, and I implemented react-router-dom in this project.
 
+### [Theme-Switcher🌥️](./project-4)
+
+theme-switcher project's functionality was to change the theme from dark to light or vice versa through a toggle button. the goal of the project was context in react and how to create and use contexts.
+
 ## Future Learning Goals🔖
 
 I plan to continue my React learning journey by exploring the following:
